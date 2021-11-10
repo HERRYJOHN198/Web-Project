@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Ibirogba John web site project", "..\..\Desktop\Ibirogba John web site project\", "{4C291A62-DD0D-4193-A9E8-E903C30E1762}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61227"
+		SlnRelativePath = "..\..\Desktop\Ibirogba John web site project\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C291A62-DD0D-4193-A9E8-E903C30E1762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C291A62-DD0D-4193-A9E8-E903C30E1762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227A1CC7-5D6A-4572-A766-04FC09518AC0}
+	EndGlobalSection
+EndGlobal
